@@ -24,7 +24,6 @@ from sklearn.preprocessing import LabelEncoder
 from datasets import list_datasets, load_dataset, list_metrics, load_metric
 
 #GLOBALS
-
 dataset = 'SOYBEAN'
 
 
