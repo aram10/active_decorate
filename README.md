@@ -11,10 +11,10 @@ ACTIVE-DECORATE is based on the DECORATE algorithm (Melville and Mooney, 2003). 
 I tested ACTIVE-DECORATE on the `soybeans` and `vowels` datasets. The single most informative example was labeled every iteration (if this becomes too computationally expensive, increase this). Gaussian Naive Bayes was used as the base learner fot `soybeans`, and ID3 for `vowels`. Each dataset had 50 initially-labeled examples. The maximum community size for DECORATE was set to 15. The results can be seen below.
 
 <p align="center">
-<img src="images/soybean.png">
+<img src="images/soybean.jpg">
 </p>
 
 <p align="center">
-<img src="images/vowels.png">
+<img src="images/vowels.jpg">
 </p>
 
